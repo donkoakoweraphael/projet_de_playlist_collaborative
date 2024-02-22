@@ -9,3 +9,12 @@ class Artist {
 
   Artist(this.spotifyArtistId, this.name, this.image, this.desc);
 }
+
+class ArtistSimplifie {
+  String spotifyArtistId;
+  String name;
+  String image;
+
+  ArtistSimplifie(this.spotifyArtistId, this.name, this.image);
+
+}

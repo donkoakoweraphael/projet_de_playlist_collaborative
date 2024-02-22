@@ -4,5 +4,5 @@ class Music {
   String image;
   String desc;
 
-  Music(this.spotifyTrackId, this.name, this.image, this.desc);
+  Music(this.name, this.image, this.desc, this.spotifyTrackId);
 }
