@@ -1,4 +1,4 @@
-import 'package:spotify_music_app/models/category.dart';
+import 'package:playlist_collaborative/models/category.dart';
 
 class CategoriesOperations {
   CategoriesOperations._() {}

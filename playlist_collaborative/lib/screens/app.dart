@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:spotify_music_app/screens/home.dart';
-import 'package:spotify_music_app/screens/search.dart';
-import 'package:spotify_music_app/screens/yourlibrary.dart';
+import 'package:playlist_collaborative/screens/home.dart';
+import 'package:playlist_collaborative/screens/search.dart';
+import 'package:playlist_collaborative/screens/yourlibrary.dart';
 
 class MyApp extends StatefulWidget {
   const MyApp({super.key});

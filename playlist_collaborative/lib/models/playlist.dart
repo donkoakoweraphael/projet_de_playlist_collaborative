@@ -1,5 +1,5 @@
-import 'package:spotify_music_app/models/consomateur.dart';
-import 'package:spotify_music_app/models/music.dart';
+import 'package:playlist_collaborative/models/consomateur.dart';
+import 'package:playlist_collaborative/models/music.dart';
 
 class Playlist {
   String spotifyPlaylistId;

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:spotify_music_app/models/category.dart';
-import 'package:spotify_music_app/models/music.dart';
-import 'package:spotify_music_app/services/category_operations.dart';
-import 'package:spotify_music_app/services/music_operations.dart';
+import 'package:playlist_collaborative/models/category.dart';
+import 'package:playlist_collaborative/models/music.dart';
+import 'package:playlist_collaborative/services/category_operations.dart';
+import 'package:playlist_collaborative/services/music_operations.dart';
 
 class Home extends StatelessWidget {
   const Home({super.key});

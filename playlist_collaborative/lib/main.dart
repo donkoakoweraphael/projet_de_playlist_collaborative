@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:spotify_music_app/screens/app.dart';
+import 'package:playlist_collaborative/screens/app.dart';
 
 void main() {
   runApp(
